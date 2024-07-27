@@ -112,7 +112,7 @@ Bu Sözleşme'yi kabul etmeden önce bütün içeriğini okumanız, hükümlerin
 
    8.4. Lisanslı Yazılım indirme platformundan indirilir. İndirme platformunun, sistem platformunun ve Lisanlı Yazılım'ın koşullarına uymakla yükümlüsünüz. Eğer bahsedilen üçüncü taraflar sözleşmeyi ihlal ettiğinizi bildirirse ve VirtuaKeys ve tedarikçilerinin müdahalesi gerekliyse, VirtuaKeys uygulama lisansınızı üçüncü tarafın talebi üzerine sonlandırabilir.
 
-   8.5.Uygulama lisansı sona erdiğinde, Lisanslı Yazılım'ı kullanmayı bırakmalı ve tüm kopyalarını yok etmelisiniz.
+   8.5. Uygulama lisansı sona erdiğinde, Lisanslı Yazılım'ı kullanmayı bırakmalı ve tüm kopyalarını yok etmelisiniz.
 
    8.6. VirtuaKeys veya başkaları sizin Sözleşme'yi ihlalinizden dolayı zarar görürse, bütün tazminat yükümlülüğü size aittir.
 
